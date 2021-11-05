@@ -40,10 +40,10 @@ SOFTWARE.
 ```
 
 ## Support 🇮🇳
-<a href="https://t.me/lntechnical">
+<a href="https://t.me/media_bot_updates">
    <p> Telegram </p>
   </a>
-<a href="https://youtube.com/c/LNtechnical">
+<a href="https://youtu.be/8CN0vy6oNu8">
    <p> YouTube </p>
   </a>
 
